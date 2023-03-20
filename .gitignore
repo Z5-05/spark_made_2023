@@ -1,2 +1,14 @@
 *.class
 *.log
+.bsp
+.bsp/
+.bsp/*
+project
+project/
+project/*
+target
+target/
+target/*
+spark_linear_regression
+spark_linear_regression/
+spark_linear_regression/*
